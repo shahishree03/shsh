@@ -16,7 +16,7 @@ function Projects() {
       <Particle />
       <Container>
         <h1 className="project-heading">
-          My Recent <strong className="purple">Works </strong>
+          My Projects <strong className="purple">Works </strong>
         </h1>
         <p style={{ color: "white" }}>
           Here are a few projects I've worked on recently.
@@ -28,7 +28,7 @@ function Projects() {
               isBlog={false}
               title="Chess C++"
               description="My First Project , I designed in 2nd semester using backtracking algorithm." 
-              link="https://github.com"
+              link="https://github.com/shahishree03/chess_old"
             />
           </Col>
 
@@ -38,7 +38,7 @@ function Projects() {
               isBlog={false}
               title="Demonslayer and Demon game Project"
               description="This game I have designes using my Html5, css, scss, javascript based, Itt was also build ending of scond semester"
-              link="https://github.com"
+              link="https://demonslayer-sigma.vercel.app/"
             />
           </Col>
 
@@ -48,7 +48,7 @@ function Projects() {
               isBlog={false}
               title="Chat Based Project"
               description="This Java Chat BAsed project application ,I have developed during my 3rd semester during that I have first ever learnt about java ."
-               link="https://github.com"
+               link="https://github.com/shahishree03/ChaTJAVA"
             />
           </Col>
 
@@ -56,9 +56,9 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Ecommerece app"
-              description="Java web application based project application that I have made during end of 3rd semester which includes java ee , web apllication tools like java , html using IBM Zos" 
-              link="https://github.com"
+              title="Yoi Keiken OTT Platform"
+              description="OTT Platform that uses ReactJS, Movie Database and Firebase " 
+              link="https://github.com/shahishree03/Fakeflix"
             />
           </Col>
 
@@ -68,7 +68,7 @@ function Projects() {
               isBlog={false}
               title="Cloud Attendance Project"
               description=" Using HTML5, CSS, ScSS , Javascript, PHP , mysql , build the attendance based project that require in the situation like pandemic for attendance "
-              link="https://github.com/"
+              link="https://github.com/shahishree03/attendance_system"
             />
           </Col>
 
@@ -78,7 +78,7 @@ function Projects() {
               isBlog={false}
               title="Traffic Vehicle Detction "
               description="In this project , using python ,and visual studio , build the features for detecting vehicle in high rush traffic and counting them , it can predict 95% accuracy within the frame with CNN model etc. I helps in highway and parking and can identify car owner also."
-              link="https://github.com/"
+              link="https://github.com/shahishree03/vehicle_detection/"
             />
           </Col>
 
